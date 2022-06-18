@@ -11,13 +11,23 @@ uProg4: LED lighting sequence with functions.
 
 uProg4b: LED lighting sequence with functions.
 
-uProg5:
+uProg5: Timer with state machine.
 
-uProg6:
+uProg5b: Timer with functions and state machine.
 
-uProg7:
+uProg5c: Timer with tables and functions.
 
-uProg8:
+uProg6: Functions.
+
+uProg7: Counter.
+
+uProg7b: Counter 2.
+
+uProg7c: Counter 3.
+
+uProg7d: Timer library.
+
+uProg8: Timer Library 2.
 
 uProg9:
 
